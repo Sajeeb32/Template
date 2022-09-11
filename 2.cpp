@@ -9,6 +9,7 @@ using namespace std;
 #define a first
 #define b second
 #define vec vector<int>
+#define min_prioriry_queue priority_queue<int>,vector<int>,greater<int>>
 #define all(x) (x).begin(), (x).end()
 #define umap unordered_map
 #define uset unordered_set
